@@ -1,0 +1,4 @@
+D:\repos\labworks\Lab2projectClasses\Lab2projectClasses\obj\Debug\net6.0\Lab2projectClasses.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\labworks\Lab2projectClasses\Lab2projectClasses\obj\Debug\net6.0\Lab2projectClasses.AssemblyInfoInputs.cache
+D:\repos\labworks\Lab2projectClasses\Lab2projectClasses\obj\Debug\net6.0\Lab2projectClasses.AssemblyInfo.cs
+D:\repos\labworks\Lab2projectClasses\Lab2projectClasses\obj\Debug\net6.0\Lab2projectClasses.csproj.CoreCompileInputs.cache
